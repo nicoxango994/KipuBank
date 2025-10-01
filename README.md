@@ -19,7 +19,7 @@ El contrato incluye mecanismos de seguridad como límites máximos de depósito 
 
 Para desplegar el contrato, necesitás:
 
-1. Tener instalado **Remix** o un entorno de desarrollo Ethereum como **Hardhat** o **Truffle**.
+1. Tener instalado **Remix** o un entorno de desarrollo Ethereum.
 2. Seleccionar la versión de Solidity `0.8.26`.
 3. Copiar el código del contrato `KipuBank.sol` en un archivo `.sol`.
 4. Configurar los parámetros del constructor:
